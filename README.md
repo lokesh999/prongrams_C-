@@ -1,3 +1,3 @@
 # prongrams_C-
 
-# This repo contains some Algoriths implementation and coding problems implementation in C++.
+# This repo contains some Algorithms and coding problems implementation in C++.
